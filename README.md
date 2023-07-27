@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=mike-kaonashi)
 <h1 align="left">
   Hello guys, I'm mike!
   <img src="https://github.com/boylavua18/boylavua18/blob/master/public/images/noface-title-transparent.png" height="30px" alt="noface"/>
